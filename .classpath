@@ -3,9 +3,9 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="gen"/>
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
-	<classpathentry exported="true" kind="lib" path="/home/kyle/Downloads/jackson-mapper-asl-1.6.7.jar"/>
-	<classpathentry exported="true" kind="lib" path="/home/kyle/Downloads/jackson-core-asl-1.6.7.jar"/>
 	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/codegist-crest"/>
-	<classpathentry exported="true" kind="lib" path="/home/kyle/dev/common/target/codegist-common-2.0.0-RC1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-asl-1.6.7.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-mapper-asl-1.6.7.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/codegist/codegist-common/2.0.0-RC1-SNAPSHOT/codegist-common-2.0.0-RC1-SNAPSHOT.jar" sourcepath="M2_REPO/org/codegist/codegist-common/2.0.0-RC1-SNAPSHOT/codegist-common-2.0.0-RC1-SNAPSHOT-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
